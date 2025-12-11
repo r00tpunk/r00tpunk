@@ -11,5 +11,3 @@ Skills:
 
 About Me:  
 Wanna be a hacker.
-
-Stay sharp. Stay rooted.
