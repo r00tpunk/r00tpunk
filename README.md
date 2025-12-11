@@ -1,16 +1,15 @@
-## Hi there 👋
+r00tpunk / Abdul Rehman  
+Cybersecurity • Pentesting • CTFs  
 
-<!--
-**r00tpunk/r00tpunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills:  
+- SQL Injection (SQLi)  
+- Basic Web Pentesting  
+- HTB CTFs  
+- Linux, Bash, Python  
+- JavaScript, HTML/CSS  
+- Networking  
 
-Here are some ideas to get you started:
+About Me:  
+Wanna be a hacker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stay sharp. Stay rooted.
