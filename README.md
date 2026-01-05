@@ -1,5 +1,5 @@
 r00tpunk / Abdul Rehman  
-Cybersecurity • Pentesting • CTF Write-ups  
+Cybersecurity • Pentesting • CTF Write-ups • Bug Hunting  
 
 Skills:  
 - SQL Injection (SQLi) – documented real-world labs  
