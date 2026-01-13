@@ -10,4 +10,3 @@ Skills:
 
 About Me:  
 Learning by breaking, then writing about it.  
-Latest SQLi labs, CTF solves, and notes → r00tpunk.github.io
